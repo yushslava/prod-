@@ -1,0 +1,229 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-image: url(../img/BG.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1600px;
+    max-width: 100%;
+    min-width: 100%;
+    height: 535px;
+    left: 0;
+    top: 0;
+}
+.header{
+    width: 100%;
+    min-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 96px;
+    height: 23px;
+    margin-top: 26px;
+}
+.group{
+    width: 269px;
+    height: 24px;
+    text-align: center;
+    color: #DBE4F1;
+    font-family: Inter, serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 12px;
+}
+.content{
+    font-family: Inter, serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.content1{
+
+    text-align: center;
+    font-size: 46px;
+    font-weight: 700;
+    line-height: 68px;
+    letter-spacing: -0.3px;
+    color: #ffffff;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.content2{
+    width: 582px;
+    height: 68px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 34px;
+    letter-spacing: -0.3px;
+    color: #DBE4F1;
+}
+.btn{
+    width: 227px;
+    height: 50px;
+    background-color: #50E3C2;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19.36px;
+    text-align: center;
+    border-radius: 3px;
+    border: none;
+    color: #0F3D33;
+}
+.cont_card{
+    text-align: center;
+    width: 154px;
+    height: 28px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 28px;
+    color: #DBE4F1;
+}
+.future{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+.future_one{
+    width: 350px;
+    height: 243px;
+    text-align: center;
+}
+.dot1{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #FC5C65;
+    margin-left: 129px;
+    border-radius: 50%;
+    opacity: 5.96%;
+    z-index: 0;
+}
+.dot{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #FC5C65;
+    margin-left: 149px;
+    border-radius: 50%;
+    margin-top: 35px;
+}
+.border1{
+    position:relative;
+}
+.border{
+    border-right: 1px solid #E8E8EA;
+    margin-top: 115px;
+    height:111px;
+}
+.strong{
+    width: 263px;
+    height: 34px;
+    margin-top: 83px;
+    margin-left: 22px;
+    text-align: center;
+    font-family: Inter, serif;
+    color: #000000;
+    font-weight: 400;
+    line-height: 34px;
+    font-size: 22px;
+}
+.des{
+    width: 307px;
+    height: 102px;
+    margin-top: 24px;
+    text-align: center;
+    font-family: Inter, serif;
+    color: #323232;
+    font-weight: 400;
+    line-height: 34px;
+    font-size: 18px;
+}
+.future_two{
+    width: 354px;
+    height: 243px;
+    text-align: center;
+    margin-left: 41px;
+}
+.dot2{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #50E3C2;
+    margin-left: 129px;
+    border-radius: 50%;
+    opacity: 5.96%;
+    z-index: 0;
+}
+.dot_first{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #50E3C2;
+    margin-left: 149px;
+    border-radius: 50%;
+    margin-top: 35px;
+}
+.strong2{
+    width: 263px;
+    height: 34px;
+    margin-top: 83px;
+    margin-left: 22px;
+    text-align: center;
+    font-family: Inter, serif;
+    color: #000000;
+    font-weight: 400;
+    line-height: 34px;
+    font-size: 22px;
+}
+.future_three{
+    width: 354px;
+    height: 243px;
+    text-align: center;
+    margin-left: 51px;
+}
+.dot3{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: #A665FB;
+    margin-left: 129px;
+    border-radius: 50%;
+    opacity: 5.96%;
+    z-index: 0;
+}
+.dot_second{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #A665FB;
+    margin-left: 149px;
+    border-radius: 50%;
+    margin-top: 35px;
+}
+.strong3{
+    width: 263px;
+    height: 34px;
+    margin-top: 83px;
+    margin-left: 22px;
+    text-align: center;
+    font-family: Inter, serif;
+    color: #000000;
+    font-weight: 400;
+    line-height: 34px;
+    font-size: 22px;
+}
+.content3{
+    width: 100%;
+    height: 100%;
+
+}
